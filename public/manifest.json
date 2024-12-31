@@ -1,0 +1,18 @@
+{
+  "label": "Just Another Spotify Player",
+  "isAudioSource": false,
+  "isScreenSaver": false,
+  "isWebApp": true,
+  "requires": [],
+  "version": "0.01.0",
+  "version_code": 1,
+  "description": "Just Another Spotify Player. Featuring a ever-so-slightly different design flavor.",
+  "author": "nlucaccioni",
+  "platforms": [
+    "windows"
+  ],
+  "homepage": "",
+  "repository": "https://github.com/nlucaccioni/JUSP",
+  "id": "jusp",
+  "template": "full"
+}
